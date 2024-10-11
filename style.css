@@ -6,5 +6,5 @@
     --font:"Edu AU VIC WA NT Guides",sans-serif;
 }
 body{
-    background-color: var(--bg-color);
+    background-color:var(--bg-color);
 }
